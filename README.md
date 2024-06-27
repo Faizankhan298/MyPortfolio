@@ -26,7 +26,7 @@ To run the project locally:
 
 ## Demo
 
-A live demo of the project can be found at [ Demo URL]().
+A live demo of the project can be found at [ Demo URL](https://faizankhan298.github.io/MyPortfolio/).
 
 ## Contributing
 
